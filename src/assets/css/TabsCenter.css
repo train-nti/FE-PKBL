@@ -1,0 +1,10 @@
+﻿.full-widths .card-header-tabs {
+    margin-right: -21px;
+    margin-left: -21px;
+}
+
+.full-widths .nav-tabs .nav-item {
+    margin-bottom: -1px;
+    flex-grow: 1;
+    text-align: center;
+}
